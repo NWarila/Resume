@@ -3,7 +3,7 @@
 - Bachelor of Science in Information Technology (2025)
 - Master of Science Cybersecurity (2027)
 
-## Professional Certifications (16)  
+## Professional Certifications (17)  
 - Blue Coat Certified ProxySG Administrator (BCCPA)  
 - Blue Coat Certified ProxySG Professional (BCCPP)  
 - Certified Ethical Hacker (C|EH)  
