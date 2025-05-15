@@ -1,11 +1,4 @@
-![image](https://github.com/user-attachments/assets/56720dec-512a-48c4-b667-9d551f4be142)# Resume
-
-Bullet Format:
-1.  
-&nbsp;&nbsp;&nbsp;&nbsp;[ S ]  
-&nbsp;&nbsp;&nbsp;&nbsp;[ T ]  
-&nbsp;&nbsp;&nbsp;&nbsp;[ A ]  
-&nbsp;&nbsp;&nbsp;&nbsp;[ R ]  
+# Resume
 
 ## Network Control Center Technician (U.S. Air Force)
 #### 1. Created an automated patch workflow using PowerShell/Batch scripting, slashing compliance times by 83% and halving the manpower required, transforming Misawa AB into a MAJCOM leader in security readiness.
