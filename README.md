@@ -1,6 +1,29 @@
-# Resume
+# Education  
+## Higher Education  
+- Bachelor of Science in Information Technology (2025)
+- Master of Science Cybersecurity (2027)
 
-## Network Control Center Technician (U.S. Air Force)
+## Professional Certifications (16)  
+- Certified Information Systems Security Professional (CISSP)
+- Certified Ethical Hacker (C|EH)
+- CompTIA Advanced Security Practitioner+ (CASP+)
+- CompTIA A+ (CE)  
+- CompTIA Linux+ (Powered by LPI)  
+- CompTIA Network+ (CE)  
+- CompTIA Project+  
+- CompTIA Security+ (CE)  
+- LPIC-1 Linux Administrator  
+- Wireshark Certified Network Analyst  
+- Palo Alto Networks Certified Network Security Engineer (PCNSE6)  
+- SUSE Certified Linux Administrator (CLA)  
+- BCCPA: Blue Coat Certified ProxySG Administrator  
+- BCCPP: Blue Coat Certified ProxySG Professional  
+- Palo Alto Accredited Configuration Engineer 6  
+- Palo Alto Accredited Configuration Engineer 7  
+- Palo Alto Accredited Configuration Engineer 8  
+
+# Work History  
+## Network Control Center Technician (U.S. Air Force)  
 #### 1. Created an automated patch workflow using PowerShell/Batch scripting, slashing compliance times by 83% and halving the manpower required, transforming Misawa AB into a MAJCOM leader in security readiness.
 > |   |   |
 > |---|---|
