@@ -23,7 +23,9 @@
 - Palo Alto Accredited Configuration Engineer 8  
 
 # Work History  
-## Network Control Center Technician (U.S. Air Force)  
+## Network Control Center Technician (U.S. Air Force) | Dec 2011 - Jun 2013
+System administrator of $318 million network for 35th Fighter Wing supporting 44 units throughout Japan. Responsibilities include managing core network services including Active Directory, Group Policy, DNS, and DHCP. Other responsibilities included system lifecycle management, vulnerability identification/remediation, and tier 3 support.  
+
 #### 1. Created an automated patch workflow using PowerShell/Batch scripting, slashing compliance times by 83% and halving the manpower required, transforming Misawa AB into a MAJCOM leader in security readiness.
 > |   |   |
 > |---|---|
@@ -66,7 +68,9 @@
 
 
 
-## Communications Focal Point Technician (U.S. Air Force)
+## Communications Focal Point Technician (U.S. Air Force) | Jun 2013 - Aug 2013
+Communication Focal Point Technicians serve as the conduit for the Air Force Enterprise Service Desk (ESD) providing Tier I/II support to resolve communications systems and equipment issues at base level. Other responsibilities include maintaining physical accountability of AFIN equipment, planning & scheduling production, ordering, and management of materials, and track/order preventive maintenance.  
+
 #### 1. The team rapidly adopted automated workflows, reducing manual tasks and fostering a culture of continuous improvement and shared success, resulting in a 24% improvement in ticket resolution and achieving a 3-year ticket low.  
 > |   |   |
 > |---|---|
@@ -109,7 +113,9 @@
 
 
 
-## Information Systems Security Officer (U.S. Air Force)
+## Information Systems Security Officer (U.S. Air Force) | Aug. 2013 – Jan. 2015
+System administrator/manager responsible for ensuring confidentiality, integrity, and availability of systems and networks and data through the utilization of risk analysis process. Responsibilities include obtaining/maintaining Information System accreditation (SSPS/ISSP), integrate disaster recovery/contingency planning, establish a security education, training, and awareness program, create configuration management (CM) process and conduct auditing & network monitoring.  
+
 #### 1. Led the transition from JFAN 6-3 to JSIG—partnering closely with MAJCOM leadership, acting as a core feedback stakeholder, and guiding program through updated accreditation workflows—culminating in a compliant, disruption-free adoption of the new standard.  
 > |   |   |
 > |---|---|
@@ -152,7 +158,9 @@
 
 
 
-## Boundary Protection Engineer/Network Application Engineer (U.S. Air Force/Sumaria Systems Inc.)
+## Boundary Protection Engineer/Network Application Engineer (U.S. Air Force/Sumaria Systems Inc.) | Jan. 2015 – Feb. 2018
+System Administrator of $10 billion United States Air Force Intra-Network (AFIN) Boundary Protection Cyberspace Security and Control System Weapon System (CSCS/WS) responsible for 1,070 firewalls, proxies, and VPN’s across 121 geographically separated locations in order to evaluate, detect, prevent and implement countermeasures to protect clients, networks, and data & voice systems to include Secure Internet Protocol Routing (SIPR) network mission systems from unauthorized network activity.  
+
 #### 1. Directed cross-functional collaboration to align key weapon systems with USCYBERCOM strategy—cutting redundant planning tasks by 30%, unifying DCO mission planning, and demonstrating decisive leadership amid complex multi-stakeholder requirements.  
 > |   |   |
 > |---|---|
@@ -195,7 +203,7 @@
 
 
 
-## Systems Engineer (Applied Insight)
+## Systems Engineer (Intelligent Decisions/Applied Insight) | Feb. 2018 – Sept. 2018
 #### 1. Led a 3-person modernization team to develop standardized processes, remove 2,000+ stale objects, Implemented RBAC policy, and consolidate 10+ VB scripts—cutting logon/account errors by 17% and achieving a secure, streamlined AD architecture.  
 > |   |   |
 > |---|---|
@@ -238,7 +246,7 @@
 
 
 
-## Principal Systems & Network Engineer (N-ASK Inc.)
+## Principal Systems & Network Engineer (N-ASK Inc.) | Sept. 2018 – Sept. 2020
 #### 1. Inspired and led a 3-person cross-departmental effort to launch a fully redundant remote-site facility delivering 99.999% uptime (serving ~29k global users), introducing zero-downtime updates for the first time, finishing 60 days early, and cutting the data center footprint by 15%, thereby redefining reliability standards and strengthening user trust.  
 > |   |   |
 > |---|---|
@@ -278,3 +286,218 @@
 > | T | You were asked to build an automated solution to streamline and standardize system configurations across both workstations and servers. |
 > | A | You created a robust automation framework as a companion to a 3rd-party commercial platform, assigning each system a defined role and automating the full stack of settings—roles, features, security policies, application installs, and user access. |
 > | R | Deployment and refresh times dropped by 85%, patch management effort fell by 68%, configuration drift was virtually eliminated, and 30+ day compliance and vulnerability findings shrank by 99%. |
+
+
+
+## Sr. Principal Systems Engineer (Defense Advanced Research Projects Agency) | Sept. 2020 – Oct. 2021
+#### 1. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 2. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 3. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 4. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 5. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+
+
+## Sr. Principal Systems Engineer (CSW Systems) | Oct. 2021 – Sept. 2022
+#### 1. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 2. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 3. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 4. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 5. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+
+
+## Sr. Principal Systems Engineer (Lockheed Martin) | Sept. 2022 – Feb. 2024
+#### 1. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 2. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 3. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 4. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 5. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+
+
+## Information Systems Security Engineer (Two Six Technologies) | Feb. 2024 – Jan. 2025
+#### 1. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 2. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 3. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 4. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 5. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+
+
+## Sr. Principal Systems Engineer (BAE Systems)
+#### 1. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 2. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 3. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 4. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 5. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
