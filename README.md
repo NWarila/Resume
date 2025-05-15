@@ -4,23 +4,23 @@
 - Master of Science Cybersecurity (2027)
 
 ## Professional Certifications (16)  
-- Certified Information Systems Security Professional (CISSP)
-- Certified Ethical Hacker (C|EH)
-- CompTIA Advanced Security Practitioner+ (CASP+)
+- Blue Coat Certified ProxySG Administrator (BCCPA)  
+- Blue Coat Certified ProxySG Professional (BCCPP)  
+- Certified Ethical Hacker (C|EH)  
+- Certified Information Systems Security Professional (CISSP)  
 - CompTIA A+ (CE)  
+- CompTIA Advanced Security Practitioner+ (CASP+)  
 - CompTIA Linux+ (Powered by LPI)  
 - CompTIA Network+ (CE)  
 - CompTIA Project+  
 - CompTIA Security+ (CE)  
 - LPIC-1 Linux Administrator  
-- Wireshark Certified Network Analyst  
-- Palo Alto Networks Certified Network Security Engineer (PCNSE6)  
-- SUSE Certified Linux Administrator (CLA)  
-- BCCPA: Blue Coat Certified ProxySG Administrator  
-- BCCPP: Blue Coat Certified ProxySG Professional  
 - Palo Alto Accredited Configuration Engineer 6  
 - Palo Alto Accredited Configuration Engineer 7  
 - Palo Alto Accredited Configuration Engineer 8  
+- Palo Alto Certified Network Security Engineer (PCNSE6)  
+- SUSE Certified Linux Administrator (CLA)  
+- Wireshark Certified Network Analyst  
 
 # Work History  
 ## Network Control Center Technician (U.S. Air Force) | Dec. 2011 - Jun. 2013
