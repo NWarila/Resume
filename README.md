@@ -23,7 +23,7 @@
 - Palo Alto Accredited Configuration Engineer 8  
 
 # Work History  
-## Network Control Center Technician (U.S. Air Force) | Dec 2011 - Jun 2013
+## Network Control Center Technician (U.S. Air Force) | Dec. 2011 - Jun. 2013
 System administrator of $318 million network for 35th Fighter Wing supporting 44 units throughout Japan. Responsibilities include managing core network services including Active Directory, Group Policy, DNS, and DHCP. Other responsibilities included system lifecycle management, vulnerability identification/remediation, and tier 3 support.  
 
 #### 1. Created an automated patch workflow using PowerShell/Batch scripting, slashing compliance times by 83% and halving the manpower required, transforming Misawa AB into a MAJCOM leader in security readiness.
@@ -68,7 +68,7 @@ System administrator of $318 million network for 35th Fighter Wing supporting 44
 
 
 
-## Communications Focal Point Technician (U.S. Air Force) | Jun 2013 - Aug 2013
+## Communications Focal Point Technician (U.S. Air Force) | Jun. 2013 - Aug. 2013
 Communication Focal Point Technicians serve as the conduit for the Air Force Enterprise Service Desk (ESD) providing Tier I/II support to resolve communications systems and equipment issues at base level. Other responsibilities include maintaining physical accountability of AFIN equipment, planning & scheduling production, ordering, and management of materials, and track/order preventive maintenance.  
 
 #### 1. The team rapidly adopted automated workflows, reducing manual tasks and fostering a culture of continuous improvement and shared success, resulting in a 24% improvement in ticket resolution and achieving a 3-year ticket low.  
@@ -203,7 +203,7 @@ System Administrator of $10 billion United States Air Force Intra-Network (AFIN)
 
 
 
-## Systems Engineer (Intelligent Decisions/Applied Insight) | Feb. 2018 – Sept. 2018
+## Systems Engineer (Intelligent Decisions/Applied Insight) | Feb. 2018 – Jun. 2018
 #### 1. Led a 3-person modernization team to develop standardized processes, remove 2,000+ stale objects, Implemented RBAC policy, and consolidate 10+ VB scripts—cutting logon/account errors by 17% and achieving a secure, streamlined AD architecture.  
 > |   |   |
 > |---|---|
@@ -243,6 +243,50 @@ System Administrator of $10 billion United States Air Force Intra-Network (AFIN)
 > | T | Charged with leading a complete GPO overhaul to simplify policy administration and standardize configurations across both live and test domains. |
 > | A | Developed 130+ carefully scoped Group Policy Objects to replace ~95% of the legacy GPOs, consolidating redundant settings and aligning each policy with DoD best practices. Conducted iterative testing in a sandboxed domain, documented the new GPO architecture, and established formal GPO creation/change protocols to prevent future sprawl. |
 > | R | Reduced GPO complexity by 60%, cut average policy processing time by ~25%, and lowered GPO-related helpdesk tickets by over 40% in the first quarter. The standardized GPO framework improved manageability, bolstered security compliance, and enabled faster system-wide policy updates. |
+
+
+
+## Cyber Operations Analyst (Insight Global) | Jun. 18 - Sept. 18
+Lead technical advisor for the $318 million Air Force Cyber Security and Control System Weapon system, the largest IT weapon system in the Air Force.
+#### 1. Coordinated the transition of management from AFSPACE to ACC; Co-authored policies, procedures, and practices for the design, development, implementation, maintenance, modification, and administration of the CSCS weapon system.
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 2. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 3. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 4. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 5. 
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
 
 
 
