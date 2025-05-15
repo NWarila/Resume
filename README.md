@@ -352,21 +352,21 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 > | A |  |
 > | R |  |
 
-#### 3. 
+#### 3. Spearheaded the design, deployment, and accreditation of a unified information system—synthesizing requirements from 10+ diverse networks into a secure, scalable baseline that streamlined operations, met stringent security mandates, and laid a foundation for future expansion.  
 > |   |   |
 > |---|---|
-> | S |  |
-> | T |  |
-> | A |  |
-> | R |  |
+> | S | Multiple networks (over 10) had distinct operational and security requirements, yet lacked a unified, accredited system baseline. |
+> | T | As lead engineer, you needed to design, deploy, and accredit a single information system that could satisfy each network’s stringent security mandates and support future growth. |
+> | A | You collaborated with stakeholders to consolidate requirements, architected a secure and scalable system framework, and led the end-to-end accreditation process to ensure compliance across all environments. |
+> | R | Unified 10+ networks under one accredited baseline, met all security requirements, streamlined day-to-day operations, and laid a foundation for ongoing expansion. |
 
-#### 4. 
+#### 4. Spearheaded the design, deployment, and accreditation of a unified information system—synthesizing requirements from 10+ diverse networks into a secure, scalable baseline that streamlined operations, met stringent security mandates, and laid a foundation for future expansion.  
 > |   |   |
 > |---|---|
-> | S |  |
-> | T |  |
-> | A |  |
-> | R |  |
+> | S | Multiple networks (over 10) each had unique security and operational requirements, causing fragmentation and inefficiency across the enterprise. |
+> | T | You were tasked with creating and accrediting a single, unified information system that would serve as a secure, scalable baseline across all existing and future networks. |
+> | A | You led stakeholder discussions to consolidate varied requirements, architected a robust system design to meet stringent security standards, and directed the end-to-end accreditation process to ensure regulatory compliance. |
+> | R | This new, unified system streamlined daily operations, satisfied all mandated security criteria, and provided a scalable framework poised for ongoing expansion |
 
 #### 5. 
 > |   |   |
