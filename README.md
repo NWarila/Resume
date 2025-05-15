@@ -204,6 +204,8 @@ System Administrator of $10 billion United States Air Force Intra-Network (AFIN)
 
 
 ## Systems Engineer (Intelligent Decisions/Applied Insight) | Feb. 2018 – Jun. 2018
+Windows System Engineer responsible for supporting system infrastructure hardware and software including analysis, planning, design, development, implementation, provisioning, upgrades and day-to-day operations of the ACC (Air Combat Command) Global Command and Control System (GCCS) weapon system network.  
+
 #### 1. Led a 3-person modernization team to develop standardized processes, remove 2,000+ stale objects, Implemented RBAC policy, and consolidate 10+ VB scripts—cutting logon/account errors by 17% and achieving a secure, streamlined AD architecture.  
 > |   |   |
 > |---|---|
