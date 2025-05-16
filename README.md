@@ -10,6 +10,52 @@ Highly versatile and experienced systems administrator offering expertise in IT 
 &nbsp; ●                 ●                        ●   
 
 # Professional Experience  
+## Web Development & Administrator (Freelance) | 2008 - Dec. 2011
+
+| Skills |
+| :----: |
+|        |
+
+#### 1.  
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 2.  
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 3.  
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 4.  
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
+#### 5.  
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
+
 ## Network Control Center Technician (U.S. Air Force) | Dec. 2011 - Jun. 2013
 System administrator of $318 million network for 35th Fighter Wing supporting 44 units throughout Japan. Responsibilities include managing core network services including Active Directory, Group Policy, DNS, and DHCP. Other responsibilities included system lifecycle management, vulnerability identification/remediation, and tier 3 support.  
 
