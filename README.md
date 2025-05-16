@@ -1,5 +1,5 @@
 # Principal Systems Engineer  
-### Dynamic Leader with over 13 Years of Experience in Systems Administration & Technical Project Management  
+### Dynamic Leader with over 15 Years of Experience in Systems Administration & Technical Project Management  
 Highly versatile and experienced systems administrator offering expertise in IT operations, high-level strategic planning, and technical project management. Proven track-record of developing and implementing strategic IT solutions aligned to organizational objectives with a focus on continuous process improvements, technology optimization, and customer service. Deep technical expertise combined with an understanding of the importance of highly effective technical leadership, stakeholder management, and project management. Collaborative leader continually focused on building relationships to produce highly effective cross-functional teams, increasing productivity, and improving outcomes. Individual dedicated to self-reflection and personal improvement who consistently exceeds performance metrics.
 
 # Core Competencies  
@@ -23,42 +23,42 @@ Highly versatile and experienced systems administrator offering expertise in IT 
 #### 1. Scaled 25 + vBulletin forums (5 M + annual visitors) to 99.97 % uptime by hardening LAMP stacks, tuning MySQL query caching and automating nightly backups with fail-over scripts.  
 > |   |   |
 > |---|---|
-> | S |  |
-> | T |  |
-> | A |  |
-> | R |  |
+> | S | 25 high-traffic vBulletin forums (≈5 million visits per year) were suffering periodic outages and performance bottlenecks. |
+> | T | Raise service reliability to “three-nines” (≥99.9 % uptime) without additional hardware. |
+> | A | Hardened LAMP stacks, tuned MySQL query-cache settings, and scripted nightly backups with automated fail-over restoration. |
+> | R | Achieved 99.97 % uptime, eliminating critical downtime events and stabilizing page-load performance across the fleet. |
 
 #### 2. Converted 100 % of client skins from table layouts to CSS divs in a six-month sprint, boosting Page Speed/YSlow scores from 72 → 91 and clearing all W3C validation errors.  
 > |   |   |
 > |---|---|
-> | S |  |
-> | T |  |
-> | A |  |
-> | R |  |
+> | S | All client vBulletin skins still used table-based layouts, causing slow page loads and repeated W3C validation errors. |
+> | T | Within six months, migrate every active skin to modern CSS <div> templates and measurably improve front-end performance. |
+> | A | Re-engineered each template: replaced table markup with semantic <div> structures, consolidated CSS, and ran iterative Page Speed/YSlow tuning. |
+> | R | Converted 100 % of skins on schedule, boosted Page Speed/YSlow scores from 72 → 91, and eliminated all W3C validation issues. |
 
 #### 3. Authored 40 + mobile-optimised PHP plug-ins and themes that cut average page weight 35 % and increased mobile session duration 22 % within one quarter of launch.  
 > |   |   |
 > |---|---|
-> | S |  |
-> | T |  |
-> | A |  |
-> | R |  |
+> | S | Mobile users were abandoning forums quickly because legacy plug-ins and themes were heavy and poorly rendered on smartphones. |
+> | T | Create a lightweight, mobile-friendly plug-in/theme suite that would shrink page size and raise mobile engagement within one quarter. |
+> | A | Wrote 40 + PHP plug-ins and responsive themes, minified assets, and deferred non-critical scripts to reduce initial payload. |
+> | R | Cut average page weight 35 % and lifted mobile session duration 22 % in the first three months after rollout. |
 
 #### 4. Drove a 60 % jump in organic traffic across 120 + keywords by implementing rich-snippet microdata (schema.org rollout 2011), refining meta tags and deploying SEO-friendly mod_rewrite URLs—achieving top-3 SERP ranks inside nine months.  
 > |   |   |
 > |---|---|
-> | S |  |
-> | T |  |
-> | A |  |
-> | R |  |
+> | S | Forum sites ranked mid-page on Google for most target terms and lacked structured data or SEO-optimized URLs. |
+> | T | Boost organic traffic and secure top-3 search positions for key phrases within 12 months. |
+> | A | Embedded rich-snippet microdata as soon as schema.org launched (2011), overhauled meta titles/descriptions, and converted links to SEO-friendly mod_rewrite URLs. |
+> | R | Organic traffic jumped 60 % across 120 + keywords, with top-3 SERP placement achieved in nine months. |
 
 #### 5. Automated routine admin with Bash/PHP toolchain, reclaiming 10 hrs/week and shrinking critical security-patch turnaround from three days to under three hours across all managed forums.  
 > |   |   |
 > |---|---|
-> | S |  |
-> | T |  |
-> | A |  |
-> | R |  |
+> | S | Routine maintenance—backups, log rotation, and security patching—was manual across 25+ vBulletin forums, consuming days and delaying critical fixes. |
+> | T | Automate administration to recover staff time and cut patch-deployment latency to same-day. |
+> | A | Developed a Bash / PHP toolchain that pulled vendor RSS feeds, auto-downloaded updates, pushed patches, verified checksums, and emailed status reports. |
+> | R | Reclaimed ≈10 hours per week and slashed critical security-patch turnaround from 3 days to < 3 hours for every managed forum. |
 
 ## Network Control Center Technician (U.S. Air Force) | Dec. 2011 - Jun. 2013
 System administrator of $318 million network for 35th Fighter Wing supporting 44 units throughout Japan. Responsibilities include managing core network services including Active Directory, Group Policy, DNS, and DHCP. Other responsibilities included system lifecycle management, vulnerability identification/remediation, and tier 3 support.  
