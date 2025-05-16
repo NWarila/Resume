@@ -3,20 +3,24 @@
 Highly versatile and experienced systems administrator offering expertise in IT operations, high-level strategic planning, and technical project management. Proven track-record of developing and implementing strategic IT solutions aligned to organizational objectives with a focus on continuous process improvements, technology optimization, and customer service. Deep technical expertise combined with an understanding of the importance of highly effective technical leadership, stakeholder management, and project management. Collaborative leader continually focused on building relationships to produce highly effective cross-functional teams, increasing productivity, and improving outcomes. Individual dedicated to self-reflection and personal improvement who consistently exceeds performance metrics.
 
 # Core Competencies  
-&nbsp; ● CI/CD Pipelines ● Network Infrastructure ● Automation Engineer   
-&nbsp; ● Threat Modeling ● Stakeholder Management ● Root Cause Analysis  
-&nbsp; ●                 ●                        ● Technical Leadership  
-&nbsp; ●                 ●                        ●   
-&nbsp; ●                 ●                        ●   
+&nbsp; ● CI/CD Pipelines ● TS/SCI (C/I Polygraph)  ● RMF/JSIG Accreditation  
+&nbsp; ● Threat Modeling ● Stakeholder Management  ● Root Cause Analysis  
+&nbsp; ● IaC Transitions ● AWS Secure Architecture ● Technical Leadership  
+&nbsp; ●                 ● Network Infrastructure  ● Vulnerability Mgmt  
+&nbsp; ●                 ● Zero-Trust Architecture ● Automation Engineer  
 
 # Professional Experience  
 ## Web Development & Administrator (Freelance) | 2008 - Dec. 2011
 
-| Skills |
+| Soft Skills |
 | :----: |
-|        |
+| Project Management |
 
-#### 1.  
+| Technical Proficiencies |
+| :----: |
+| vBulletin 3/4 ● MySQL ● cPanel ● Ubuntu Linux 9.X ● PHP 5.x ● HTML 4/5 ● CSS 2/3 |
+
+#### 1. Scaled 25 + vBulletin forums (5 M + annual visitors) to 99.97 % uptime by hardening LAMP stacks, tuning MySQL query caching and automating nightly backups with fail-over scripts.  
 > |   |   |
 > |---|---|
 > | S |  |
@@ -24,7 +28,7 @@ Highly versatile and experienced systems administrator offering expertise in IT 
 > | A |  |
 > | R |  |
 
-#### 2.  
+#### 2. Converted 100 % of client skins from table layouts to CSS divs in a six-month sprint, boosting Page Speed/YSlow scores from 72 → 91 and clearing all W3C validation errors.  
 > |   |   |
 > |---|---|
 > | S |  |
@@ -32,7 +36,7 @@ Highly versatile and experienced systems administrator offering expertise in IT 
 > | A |  |
 > | R |  |
 
-#### 3.  
+#### 3. Authored 40 + mobile-optimised PHP plug-ins and themes that cut average page weight 35 % and increased mobile session duration 22 % within one quarter of launch.  
 > |   |   |
 > |---|---|
 > | S |  |
@@ -40,7 +44,7 @@ Highly versatile and experienced systems administrator offering expertise in IT 
 > | A |  |
 > | R |  |
 
-#### 4.  
+#### 4. Drove a 60 % jump in organic traffic across 120 + keywords by implementing rich-snippet microdata (schema.org rollout 2011), refining meta tags and deploying SEO-friendly mod_rewrite URLs—achieving top-3 SERP ranks inside nine months.  
 > |   |   |
 > |---|---|
 > | S |  |
@@ -48,7 +52,7 @@ Highly versatile and experienced systems administrator offering expertise in IT 
 > | A |  |
 > | R |  |
 
-#### 5.  
+#### 5. Automated routine admin with Bash/PHP toolchain, reclaiming 10 hrs/week and shrinking critical security-patch turnaround from three days to under three hours across all managed forums.  
 > |   |   |
 > |---|---|
 > | S |  |
@@ -59,9 +63,13 @@ Highly versatile and experienced systems administrator offering expertise in IT 
 ## Network Control Center Technician (U.S. Air Force) | Dec. 2011 - Jun. 2013
 System administrator of $318 million network for 35th Fighter Wing supporting 44 units throughout Japan. Responsibilities include managing core network services including Active Directory, Group Policy, DNS, and DHCP. Other responsibilities included system lifecycle management, vulnerability identification/remediation, and tier 3 support.  
 
-| Skills |
+| Soft Skills |
 | :----: |
-| Windows Server 2008 R2 ● Windows Server 2008 ● Windows Server 2012 ● BMC Remedy ● TumbleWeed Desktop Validator ● Active Directory ● Group Policy ● System Center Configuration Manager (SCCM) ● Dell PowerEdge ● BlackBerry Mobile Device Management (MDM) ● Windows 7 Enterprise ● Active Directory Federation Services (ADFS) ● Windows Distributed File Systems (DFS) ● Windows PowerShell ● Windows Batch Scripting ● VBScript ● Active Directory Sites & Services ● Symantec Backup Exec ● VMware vSphere ● VMware vCenter ● Microsoft Offce 2010 ● Adobe Reader ● Adobe Acrobat ● DISA Stigs ● DISA Gold Disk ● |
+| Critical Thinking ● Organization ● Mentoring |
+
+| Technical Proficiencies |
+| :----: |
+| Windows Server 2008 R2 ● Windows Server 2008 ● Windows Server 2012 ● BMC Remedy ● TumbleWeed Desktop Validator ● Active Directory ● Group Policy ● System Center Configuration Manager (SCCM) ● Dell PowerEdge ● BlackBerry Mobile Device Management (MDM) ● Windows 7 Enterprise ● Active Directory Federation Services (ADFS) ● Windows Distributed File Systems (DFS) ● Windows PowerShell ● Batch Scripting ● VBScript ● Active Directory Sites & Services ● Symantec Backup Exec ● VMware vSphere ● VMware vCenter ● Microsoft Offce 2010 ● Adobe Reader ● Adobe Acrobat ● DISA Stigs ● DISA Gold Disk ● Active Directory Users & Computers ● Windows Print Management |
 
 #### 1. Created an automated patch workflow using PowerShell/Batch scripting, slashing compliance times by 83% and halving the manpower required, transforming Misawa AB into a MAJCOM leader in security readiness.
 > |   |   |
@@ -71,7 +79,7 @@ System administrator of $318 million network for 35th Fighter Wing supporting 44
 > | A | Leveraging self-taught PowerShell and Batch scripting skills, I developed a robust automation toolset that integrated real-time vulnerability scanning, automated reporting, and streamlined deployment steps in collaboration with security teams. |
 > | R | Enabled highly parallel deployments enabling staff from working 5-10 systems at a time to dozens at a team and refduced patching time from 20-30 labor minutes to 1-2 labor minutes. |
 
-#### 2. Lead a migration team supporting the comprehensive domain migration to AFIN, coordinating with multiple teams and achieving a seamless deployment recognized as “Best to Date” by senior leadership.
+#### 2. Team leader for windows domain migration project, to incorporate local base network into Air Force Intra-Network (AFIN) -- lauded "Best to Date" migration by Higher Head Quarters Communications and Information Director.
 > |   |   |
 > |---|---| 
 > | S | The base needed to integrate its local domain into the Air Force Intra-Network (AFIN), a large-scale project requiring coordination among multiple teams to meet strict security and operational requirements. |
@@ -107,6 +115,14 @@ System administrator of $318 million network for 35th Fighter Wing supporting 44
 
 ## Communications Focal Point Technician (U.S. Air Force) | Jun. 2013 - Aug. 2013
 Communication Focal Point Technicians serve as the conduit for the Air Force Enterprise Service Desk (ESD) providing Tier I/II support to resolve communications systems and equipment issues at base level. Other responsibilities include maintaining physical accountability of AFIN equipment, planning & scheduling production, ordering, and management of materials, and track/order preventive maintenance.  
+
+| Soft Skills |
+| :----: |
+| Critical Thinking ● Organization ● Mentoring |
+
+| Technical Proficiencies |
+| :----: |
+| BMC Remedy 8.x Microsoft SharePoint 2010/2013 ● Cisco VoIP Phone ● Secure Terminal Equipment (STE) ● Windows 7 ● HTML 4/5 ● CSS 3/4 ● Windows PowerShell ● Batch Scripting ● VBScript ● Excel Formula Language ● Public Key Infrastructure (PKI) ● Active Directory Federation Services ● Active Directory Users & Computers ● Microsoft Offce 2010 ● Adobe Reader ● Adobe Acrobat ● Windows Print Management | 
 
 #### 1. The team rapidly adopted automated workflows, reducing manual tasks and fostering a culture of continuous improvement and shared success, resulting in a 24% improvement in ticket resolution and achieving a 3-year ticket low.  
 > |   |   |
@@ -152,6 +168,14 @@ Communication Focal Point Technicians serve as the conduit for the Air Force Ent
 
 ## Information Systems Security Officer (U.S. Air Force) | Aug. 2013 – Jan. 2015
 System administrator/manager responsible for ensuring confidentiality, integrity, and availability of systems and networks and data through the utilization of risk analysis process. Responsibilities include obtaining/maintaining Information System accreditation (SSPS/ISSP), integrate disaster recovery/contingency planning, establish a security education, training, and awareness program, create configuration management (CM) process and conduct auditing & network monitoring.  
+
+| Soft Skills |
+| :----: |
+| Inventory Management ● Project Management ● Critical Thinking ● Organization ● Mentoring |
+
+| Technical Proficiencies |
+| :----: |
+| Secure Terminal Equipment (STE) ● Windows 7 ● Windows Server 2012 ● Windows Server 2012 R2 ● Cisco Catalyst Switches ● Cisco ASA ● Active Directory ● Domain Name System (DNS) ● | 
 
 #### 1. Led the transition from JFAN 6-3 to JSIG—partnering closely with MAJCOM leadership, acting as a core feedback stakeholder, and guiding program through updated accreditation workflows—culminating in a compliant, disruption-free adoption of the new standard.  
 > |   |   |
@@ -214,7 +238,7 @@ System Administrator of $10 billion United States Air Force Intra-Network (AFIN)
 > | A | Interviewed local administrators, collected existing network diagrams, and consolidated all technical details—IP ranges, firmware versions, policy settings—into a 200+ page structured document. Implemented a version-control system (e.g., SharePoint or Confluence) to maintain accuracy post-publication. |
 > | R | Achieved a 13% reduction in average troubleshooting time by providing a single source of truth for engineers across the enterprise, significantly reducing redundant inquiries and misconfigurations. |
 
-#### 3. Deployed a scalable Splunk solution across six RHEL servers, centralizing data ingestion and cutting ESI search times by 50%, thereby revolutionizing visibility, compliance, and real-time analytics for Air Force operations.  
+#### 3. Deployed a scalable Splunk solution across six RHEL servers, centralizing data ingestion and cutting ESI search times by 55%, thereby revolutionizing visibility, compliance, and real-time analytics for Air Force operations.
 > |   |   |
 > |---|---|
 > | S | Multiple Air Force entities struggled with fragmented log data and time-consuming Electronically Stored Information (ESI) retrieval processes, hindering rapid investigations and compliance checks. |
@@ -287,6 +311,7 @@ Windows System Engineer responsible for supporting system infrastructure hardwar
 
 ## Cyber Operations Analyst (Insight Global) | Jun. 18 - Sept. 18
 Lead technical advisor for the $318 million Air Force Cyber Security and Control System Weapon system, the largest IT weapon system in the Air Force.
+
 #### 1. Coordinated the transition of management from AFSPACE to ACC; Co-authored policies, procedures, and practices for the design, development, implementation, maintenance, modification, and administration of the CSCS weapon system.
 > |   |   |
 > |---|---|
