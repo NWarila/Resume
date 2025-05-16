@@ -1,30 +1,21 @@
-# Education  
-## Higher Education  
-- Bachelor of Science in Information Technology (2025)
-- Master of Science Cybersecurity (2027)
+# Principal Systems Engineer  
+### Dynamic Leader with over 13 Years of Experience in Systems Administration & Technical Project Management  
+Highly versatile and experienced systems administrator offering expertise in IT operations, high-level strategic planning, and technical project management. Proven track-record of developing and implementing strategic IT solutions aligned to organizational objectives with a focus on continuous process improvements, technology optimization, and customer service. Deep technical expertise combined with an understanding of the importance of highly effective technical leadership, stakeholder management, and project management. Collaborative leader continually focused on building relationships to produce highly effective cross-functional teams, increasing productivity, and improving outcomes. Individual dedicated to self-reflection and personal improvement who consistently exceeds performance metrics.
 
-## Professional Certifications (17)  
-- Blue Coat Certified ProxySG Administrator (BCCPA)  
-- Blue Coat Certified ProxySG Professional (BCCPP)  
-- Certified Ethical Hacker (C|EH)  
-- Certified Information Systems Security Professional (CISSP)  
-- CompTIA A+ (CE)  
-- CompTIA Advanced Security Practitioner+ (CASP+)  
-- CompTIA Linux+ (Powered by LPI)  
-- CompTIA Network+ (CE)  
-- CompTIA Project+  
-- CompTIA Security+ (CE)  
-- LPIC-1 Linux Administrator  
-- Palo Alto Accredited Configuration Engineer 6  
-- Palo Alto Accredited Configuration Engineer 7  
-- Palo Alto Accredited Configuration Engineer 8  
-- Palo Alto Certified Network Security Engineer (PCNSE6)  
-- SUSE Certified Linux Administrator (CLA)  
-- Wireshark Certified Network Analyst  
+# Core Competencies  
+&nbsp; ● CI/CD Pipelines ● Network Infrastructure ● Automation Engineer   
+&nbsp; ● Threat Modeling ● Stakeholder Management ● Root Cause Analysis  
+&nbsp; ●                 ●                        ● Technical Leadership  
+&nbsp; ●                 ●                        ●   
+&nbsp; ●                 ●                        ●   
 
-# Work History  
+# Professional Experience  
 ## Network Control Center Technician (U.S. Air Force) | Dec. 2011 - Jun. 2013
 System administrator of $318 million network for 35th Fighter Wing supporting 44 units throughout Japan. Responsibilities include managing core network services including Active Directory, Group Policy, DNS, and DHCP. Other responsibilities included system lifecycle management, vulnerability identification/remediation, and tier 3 support.  
+
+| Skills |
+| :----: |
+| Windows Server 2008 R2 ● Windows Server 2008 ● Windows Server 2012 ● BMC Remedy ● TumbleWeed Desktop Validator ● Active Directory ● Group Policy ● System Center Configuration Manager (SCCM) ● Dell PowerEdge ● BlackBerry Mobile Device Management (MDM) ● Windows 7 Enterprise ● Active Directory Federation Services (ADFS) ● Windows Distributed File Systems (DFS) ● Windows PowerShell ● Windows Batch Scripting ● VBScript ● Active Directory Sites & Services ● Symantec Backup Exec ● VMware vSphere ● VMware vCenter ● Microsoft Offce 2010 ● Adobe Reader ● Adobe Acrobat ● DISA Stigs ● DISA Gold Disk ● |
 
 #### 1. Created an automated patch workflow using PowerShell/Batch scripting, slashing compliance times by 83% and halving the manpower required, transforming Misawa AB into a MAJCOM leader in security readiness.
 > |   |   |
@@ -66,7 +57,7 @@ System administrator of $318 million network for 35th Fighter Wing supporting 44
 > | A | Developed a custom PowerShell migration tool that automatically validated file integrity, replicated folder structures, and preserved security ACLs. Scheduled off-peak runs to minimize user disruption and generated detailed logs for error tracking. |
 > | R | Completed the 500GB data migration smoothly and ahead of schedule, with zero data loss and minimal downtime, expediting the domain transition and ensuring uninterrupted access to shared resources. |
 
-
+-------------------------------------------------------------------------------------------------------------------
 
 ## Communications Focal Point Technician (U.S. Air Force) | Jun. 2013 - Aug. 2013
 Communication Focal Point Technicians serve as the conduit for the Air Force Enterprise Service Desk (ESD) providing Tier I/II support to resolve communications systems and equipment issues at base level. Other responsibilities include maintaining physical accountability of AFIN equipment, planning & scheduling production, ordering, and management of materials, and track/order preventive maintenance.  
@@ -111,7 +102,7 @@ Communication Focal Point Technicians serve as the conduit for the Air Force Ent
 > | A |  |
 > | R |  |
 
-
+-------------------------------------------------------------------------------------------------------------------
 
 ## Information Systems Security Officer (U.S. Air Force) | Aug. 2013 – Jan. 2015
 System administrator/manager responsible for ensuring confidentiality, integrity, and availability of systems and networks and data through the utilization of risk analysis process. Responsibilities include obtaining/maintaining Information System accreditation (SSPS/ISSP), integrate disaster recovery/contingency planning, establish a security education, training, and awareness program, create configuration management (CM) process and conduct auditing & network monitoring.  
@@ -156,7 +147,7 @@ System administrator/manager responsible for ensuring confidentiality, integrity
 > | A |  |
 > | R |  |
 
-
+-------------------------------------------------------------------------------------------------------------------
 
 ## Boundary Protection Engineer/Network Application Engineer (U.S. Air Force/Sumaria Systems Inc.) | Jan. 2015 – Feb. 2018
 System Administrator of $10 billion United States Air Force Intra-Network (AFIN) Boundary Protection Cyberspace Security and Control System Weapon System (CSCS/WS) responsible for 1,070 firewalls, proxies, and VPN’s across 121 geographically separated locations in order to evaluate, detect, prevent and implement countermeasures to protect clients, networks, and data & voice systems to include Secure Internet Protocol Routing (SIPR) network mission systems from unauthorized network activity.  
@@ -201,7 +192,7 @@ System Administrator of $10 billion United States Air Force Intra-Network (AFIN)
 > | A |  |
 > | R |  |
 
-
+-------------------------------------------------------------------------------------------------------------------
 
 ## Systems Engineer (Intelligent Decisions/Applied Insight) | Feb. 2018 – Jun. 2018
 Windows System Engineer responsible for supporting system infrastructure hardware and software including analysis, planning, design, development, implementation, provisioning, upgrades and day-to-day operations of the ACC (Air Combat Command) Global Command and Control System (GCCS) weapon system network.  
@@ -246,7 +237,7 @@ Windows System Engineer responsible for supporting system infrastructure hardwar
 > | A | Developed 130+ carefully scoped Group Policy Objects to replace ~95% of the legacy GPOs, consolidating redundant settings and aligning each policy with DoD best practices. Conducted iterative testing in a sandboxed domain, documented the new GPO architecture, and established formal GPO creation/change protocols to prevent future sprawl. |
 > | R | Reduced GPO complexity by 60%, cut average policy processing time by ~25%, and lowered GPO-related helpdesk tickets by over 40% in the first quarter. The standardized GPO framework improved manageability, bolstered security compliance, and enabled faster system-wide policy updates. |
 
-
+-------------------------------------------------------------------------------------------------------------------
 
 ## Cyber Operations Analyst (Insight Global) | Jun. 18 - Sept. 18
 Lead technical advisor for the $318 million Air Force Cyber Security and Control System Weapon system, the largest IT weapon system in the Air Force.
@@ -290,7 +281,7 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 > | A |  |
 > | R |  |
 
-
+-------------------------------------------------------------------------------------------------------------------
 
 ## Principal Systems & Network Engineer (N-ASK Inc.) | Sept. 2018 – Sept. 2020
 #### 1. Inspired and led a 3-person cross-departmental effort to launch a fully redundant remote-site facility delivering 99.999% uptime (serving ~29k global users), introducing zero-downtime updates for the first time, finishing 60 days early, and cutting the data center footprint by 15%, thereby redefining reliability standards and strengthening user trust.  
@@ -333,7 +324,7 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 > | A | You created a robust automation framework as a companion to a 3rd-party commercial platform, assigning each system a defined role and automating the full stack of settings—roles, features, security policies, application installs, and user access. |
 > | R | Deployment and refresh times dropped by 85%, patch management effort fell by 68%, configuration drift was virtually eliminated, and 30+ day compliance and vulnerability findings shrank by 99%. |
 
-
+-------------------------------------------------------------------------------------------------------------------
 
 ## Sr. Principal Systems Engineer (Defense Advanced Research Projects Agency) | Sept. 2020 – Oct. 2021
 #### 1. 
@@ -360,15 +351,7 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 > | A | You collaborated with stakeholders to consolidate requirements, architected a secure and scalable system framework, and led the end-to-end accreditation process to ensure compliance across all environments. |
 > | R | Unified 10+ networks under one accredited baseline, met all security requirements, streamlined day-to-day operations, and laid a foundation for ongoing expansion. |
 
-#### 4. Spearheaded the design, deployment, and accreditation of a unified information system—synthesizing requirements from 10+ diverse networks into a secure, scalable baseline that streamlined operations, met stringent security mandates, and laid a foundation for future expansion.  
-> |   |   |
-> |---|---|
-> | S | Multiple networks (over 10) each had unique security and operational requirements, causing fragmentation and inefficiency across the enterprise. |
-> | T | You were tasked with creating and accrediting a single, unified information system that would serve as a secure, scalable baseline across all existing and future networks. |
-> | A | You led stakeholder discussions to consolidate varied requirements, architected a robust system design to meet stringent security standards, and directed the end-to-end accreditation process to ensure regulatory compliance. |
-> | R | This new, unified system streamlined daily operations, satisfied all mandated security criteria, and provided a scalable framework poised for ongoing expansion |
-
-#### 5. 
+#### 4. Automated approximately 85% of Root CA, Subordinate CA, and CRL web hosting systems by developing Certificate Authority deployment tool, creating design documents and performing compliance testing.  
 > |   |   |
 > |---|---|
 > | S |  |
@@ -376,7 +359,15 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 > | A |  |
 > | R |  |
 
+#### 5. Led STIG compliance validation efforts supporting identification and correction efforts, resulting in 100% compliance in less than 21 days, leading to PSO issuing Approval-to-connect for network.  
+> |   |   |
+> |---|---|
+> | S |  |
+> | T |  |
+> | A |  |
+> | R |  |
 
+-------------------------------------------------------------------------------------------------------------------
 
 ## Sr. Principal Systems Engineer (CSW Systems) | Oct. 2021 – Sept. 2022
 #### 1. 
@@ -387,7 +378,7 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 > | A |  |
 > | R |  |
 
-#### 2. 
+#### 2. Initiated and implemented standardized Backup Server Configuration and Job schedule, resulting in achieving 98% weekly backup job compliance rate across 22 company sites.  
 > |   |   |
 > |---|---|
 > | S |  |
@@ -395,7 +386,7 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 > | A |  |
 > | R |  |
 
-#### 3. 
+#### 3. Developed Windows PowerShell tool for all systems meeting Government Data-at-Rest security requirement, automating process across initial deployment of ~500 systems, saving up to 250 labor hours.  
 > |   |   |
 > |---|---|
 > | S |  |
@@ -403,7 +394,7 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 > | A |  |
 > | R |  |
 
-#### 4. 
+#### 4. Created script runner VBS tool to support script deployment within the environment, allowing removal of script file deployments via GPOs, generating 11% improvement in GPO processing time on workstations.  
 > |   |   |
 > |---|---|
 > | S |  |
@@ -411,7 +402,7 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 > | A |  |
 > | R |  |
 
-#### 5. 
+#### 5.  
 > |   |   |
 > |---|---|
 > | S |  |
@@ -419,7 +410,7 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 > | A |  |
 > | R |  |
 
-
+-------------------------------------------------------------------------------------------------------------------
 
 ## Sr. Principal Systems Engineer (Lockheed Martin) | Sept. 2022 – Feb. 2024
 #### 1. 
@@ -430,7 +421,7 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 > | A |  |
 > | R |  |
 
-#### 2. 
+#### 2. Pioneered equipment refresh and equipment optimization process project to implement role-based equipment assignment model, resulting in over 30% performance improvement for developers.  
 > |   |   |
 > |---|---|
 > | S |  |
@@ -438,7 +429,7 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 > | A |  |
 > | R |  |
 
-#### 3. 
+#### 3. Oversaw design and implementation of multi-domain DNS, leading to reducing DNS entry footprint by 27%, improving DNS resolution time by nearly 60%, resolving unknown domain issues, and expanding resolvable domains by 11%.  
 > |   |   |
 > |---|---|
 > | S |  |
@@ -446,7 +437,7 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 > | A |  |
 > | R |  |
 
-#### 4. 
+#### 4. Enhanced COTS/GOTS software deployment process through reengineering and automating image-dependent software installation process, resulting in eliminating 4 labor hours per-host process.  
 > |   |   |
 > |---|---|
 > | S |  |
@@ -462,7 +453,7 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 > | A |  |
 > | R |  |
 
-
+-------------------------------------------------------------------------------------------------------------------
 
 ## Information Systems Security Engineer (Two Six Technologies) | Feb. 2024 – Jan. 2025
 #### 1. 
@@ -505,7 +496,7 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 > | A |  |
 > | R |  |
 
-
+-------------------------------------------------------------------------------------------------------------------
 
 ## Sr. Principal Systems Engineer (BAE Systems)
 #### 1. 
@@ -547,3 +538,27 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 > | T |  |
 > | A |  |
 > | R |  |
+
+# Education  
+## Higher Education  
+- Bachelor of Science in Information Technology (2025)
+- Master of Science Cybersecurity (2027)
+
+## Professional Certifications (17)  
+- Blue Coat Certified ProxySG Administrator (BCCPA)  
+- Blue Coat Certified ProxySG Professional (BCCPP)  
+- Certified Ethical Hacker (C|EH)  
+- Certified Information Systems Security Professional (CISSP)  
+- CompTIA A+ (CE)  
+- CompTIA Advanced Security Practitioner+ (CASP+)  
+- CompTIA Linux+ (Powered by LPI)  
+- CompTIA Network+ (CE)  
+- CompTIA Project+  
+- CompTIA Security+ (CE)  
+- LPIC-1 Linux Administrator  
+- Palo Alto Accredited Configuration Engineer 6  
+- Palo Alto Accredited Configuration Engineer 7  
+- Palo Alto Accredited Configuration Engineer 8  
+- Palo Alto Certified Network Security Engineer (PCNSE6)  
+- SUSE Certified Linux Administrator (CLA)  
+- Wireshark Certified Network Analyst  
