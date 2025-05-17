@@ -493,7 +493,7 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 -------------------------------------------------------------------------------------------------------------------
 
 ## Sr. Principal Systems Engineer (Lockheed Martin) | Sept. 2022 – Feb. 2024
-#### 1. Led an eight-person tiger team that transformed a five-generation, 110-PC fleet into three standardized tiers—salvaging parts, placing a targeted $8 K gap order, and executing a 72-hour rebuild—saving ≈$91 K in hardware costs while cutting audit findings 9 % and raising productivity 17 %.  
+#### 1. Led an eight-person tiger team that transformed a five-generation, 110-PC fleet into three standardized tiers—salvaging parts, placing a targeted $8 K gap order, and executing a 72-hour rebuild—saving ≈$91 K in hardware costs while cutting audit findings by 9% and raising productivity by 17%.  
 > |   |   |
 > |---|---|
 > | S | A remote site’s 110-workstation fleet spanned five hardware generations, degrading performance and triggering repeat audit findings; a full $900-per-PC refresh was unfunded. |
@@ -515,9 +515,9 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 > | S | A fragmented multi-domain Active Directory DNS had inconsistent forwarders and duplicate zones; worst-case queries took 108 seconds, and cross-domain lookups often failed. |
 > | T | Standardize DNS across all domains to guarantee 100 percent resolution and dramatically improve performance. |
 > | A | Aligned forwarder settings, purged duplicate zones, rebuilt zone files, and created an automated cross-domain test suite to validate every record after cut-over. |
-> | R | Cut worst-case lookup time from 108 s to 13 s (-88 %), reduced record footprint 27%, and achieved 100 % successful resolution across all domains. |
+> | R | Cut worst-case lookup time from 108 s to 13 s (-88 %), reduced record footprint by 27%, and achieved 100 % successful resolution across all domains. |
 
-#### 4. Designed a Batch–PowerShell hybrid deployment toolkit with a version-controlled repo of 170+ packages: standardized folder layout, generated silent-install manifests, and enabled one-click builds that cascade dependencies and full system baselines—eliminating ninety-three percent of manual steps and cutting install time by half.    
+#### 4. Designed a batch–PowerShell polyglot deployment toolkit with a version-controlled repo of 170+ packages: standardized folder layout, generated silent-install manifests, and enabled one-click builds that cascade dependencies and full system baselines—eliminating ninety-three percent of manual steps and cutting install time by half.    
 > |   |   |
 > |---|---|
 > | S | Developers relied on ad-hoc batch files and hand-typed commands to deploy 170 + applications, resulting in error-prone installs and long setup times. |
@@ -525,13 +525,13 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 > | A | Designed a Batch–PowerShell polyglot toolkit: built a version-controlled repository, enforced a uniform folder schema, auto-generated silent-install manifests, and wrote one-click scripts that chain dependencies and full system baselines. |
 > | R | Eliminated 93% of manual effort and cut installation time by half across all 170 + packages. |
 
-#### 5. 
+#### 5. Overhauled a fragmented GPO estate—audited 1,700 settings across 50 + objects, purged 93 % duplicate entries and all legacy dependencies, and rebuilt a modular baseline using native OS tooling—cut policy-processing time up to 90 % and eliminated the race-condition errors that had been breaking apps and services.  
 > |   |   |
 > |---|---|
-> | S |  |
-> | T |  |
-> | A |  |
-> | R |  |
+> | S | Fifty-plus Group Policy Objects held 1,700 settings—many redundant or legacy—that caused race-condition errors and unpredictable app behavior. |
+> | T | Deliver a deterministic, modern GPO framework that slashes processing overhead and removes obsolete scripts. |
+> | A | Performed a full GPO audit, mapped every setting, eliminated 93 percent of duplicates, replaced legacy scripts with native OS features, and rebuilt policies into a modular baseline. |
+> | R | Cut policy-processing time up to 90 percent, stabilized application launches by removing race conditions, and ensured all configurations were traceable and OS-native. |
 
 -------------------------------------------------------------------------------------------------------------------
 
