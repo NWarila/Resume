@@ -398,13 +398,13 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 -------------------------------------------------------------------------------------------------------------------
 
 ## Sr. Principal Systems Engineer (Defense Advanced Research Projects Agency) | Sept. 2020 – Oct. 2021
-#### 1. 
+#### 1. Served as the lead SME for secure AWS GovCloud deployments, steering a $150 K test-and-development network rollout and supplying design feedback that shaped DARPA’s NIST-compliant hybrid-cloud reference architecture.
 > |   |   |
 > |---|---|
-> | S |  |
-> | T |  |
-> | A |  |
-> | R |  |
+> | S | DARPA needed a secure, NIST-aligned proof-of-concept to validate that classified test & development workloads could operate in AWS GovCloud, but lacked in-house cloud expertise. |
+> | T | Act as Subject-Matter Expert (SME) to guide the $150 K pilot—standing up the cloud network, integrating it with on-prem assets, and ensuring full NIST 800-53 alignment. |
+> | A | Led design sessions, authored VPC/IAM hardening guides, and mentored engineers through VPN and transit-gateway builds; provided iterative architecture feedback to both DARPA security and AWS SA teams. |
+> | R | Delivered a fully functional hybrid test network on budget, and the resulting design was adopted as DARPA’s baseline NIST-compliant reference architecture for future cloud deployments. |
 
 #### 2. 
 > |   |   |
@@ -422,21 +422,21 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 > | A | You collaborated with stakeholders to consolidate requirements, architected a secure and scalable system framework, and led the end-to-end accreditation process to ensure compliance across all environments. |
 > | R | Unified 10+ networks under one accredited baseline, met all security requirements, streamlined day-to-day operations, and laid a foundation for ongoing expansion. |
 
-#### 4. Automated approximately 85% of Root CA, Subordinate CA, and CRL web hosting systems by developing Certificate Authority deployment tool, creating design documents and performing compliance testing.  
+#### 4. Automated Root CA, Subordinate CA, and CRL web hosting systems by developing Certificate Authority deployment tool, creating design documents and performing compliance testing.  
 > |   |   |
 > |---|---|
-> | S |  |
-> | T |  |
-> | A |  |
-> | R |  |
+> | S | DARPA’s PKI environment relied on manually built Root and Subordinate Certificate Authorities (CAs) and ad-hoc CRL/OCSP web hosting, leading to week-long build cycles and repeat audit findings. |
+> | T | Create a repeatable, fully compliant deployment process that could stand up any CA tier in hours, not days. |
+> | A | Authored a Python/PowerShell CA-deployment tool, produced detailed design & security docs, and ran FIPS/RMF compliance testing in a lab enclave. |
+> | R | Delivered 100 % automated builds for Root CA, Sub CAs, and CRL web hosts, cutting deployment time from ~120 h to 8 h and clearing all previous audit findings on re-inspection. |
 
 #### 5. Led STIG compliance validation efforts supporting identification and correction efforts, resulting in 100% compliance in less than 21 days, leading to PSO issuing Approval-to-connect for network.  
 > |   |   |
 > |---|---|
-> | S |  |
-> | T |  |
-> | A |  |
-> | R |  |
+> | S | A newly built DARPA enclave failed initial DISA STIG scans, leaving 430 critical findings and blocking the Program Support Office (PSO) from issuing Approval-to-Connect (ATC). |
+> | T | Drive remediation to 100 % compliance and secure ATC within 30 days. |
+> | A | Led a cross-team sprint: parsed Nessus/ACAS output, mapped fixes to GPO baselines and Ansible playbooks, scheduled after-hours patch windows, and validated nightly with automated re-scans. |
+> | R | Cleared all findings and reached 100 % STIG compliance in 21 days; PSO granted ATC on first resubmission. |
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -449,21 +449,21 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 > | A |  |
 > | R |  |
 
-#### 2. Initiated and implemented standardized Backup Server Configuration and Job schedule, resulting in achieving 98% weekly backup job compliance rate across 22 company sites.  
+#### 2. Initiated a company-wide standard for backup configs and schedules, lifting weekly job success to 98 % across 22 sites and freeing an entire admin day by slashing failures 90 %. 
 > |   |   |
 > |---|---|
-> | S |  |
-> | T |  |
-> | A |  |
-> | R |  |
+> | S | Backup servers at 22 sites ran disparate configurations, causing a 76 % success rate and daily manual intervention to fix failed jobs. |
+> | T | Establish a unified standard that would raise weekly backup success to ≥95 % and reduce administrative rework. |
+> | A | Drafted and rolled out company-wide policy templates for backup configurations and schedules, trained site admins, and automated health checks. |
+> | R | Achieved 98 % weekly job success, cut backup failures 90 %, and reclaimed an entire administrator day each week previously spent on manual fixes. |
 
-#### 3. Developed Windows PowerShell tool for all systems meeting Government Data-at-Rest security requirement, automating process across initial deployment of ~500 systems, saving up to 250 labor hours.  
+#### 3. Automated Windows BitLocker rollout with a PowerShell tool, bringing 500 workstations into NIST data-at-rest compliance (MP-5, SC-28) in two weeks, cutting 30 minutes of manual effort per device—about 250 labor-hours (~$30 K) saved and eliminating data-loss audit findings.  
 > |   |   |
 > |---|---|
-> | S |  |
-> | T |  |
-> | A |  |
-> | R |  |
+> | S | 500 Windows workstations failed to meet NIST SP 800-53 data-at-rest controls (MP-5, SC-28) and required manual, time-intensive BitLocker setup. |
+> | T | Achieve full encryption compliance across the fleet within two weeks while minimizing technician touch time. |
+> | A | Wrote a PowerShell automation tool to enable BitLocker, escrow keys, verify TPM status, and log results; coordinated overnight deployment waves. |
+> | R | Reached 100 % compliance in 14 days, trimmed 30 minutes of manual effort per device (~250 labor-hours / ≈$30 K), and cleared all data-loss audit findings. |
 
 #### 4. Created script runner VBS tool to support script deployment within the environment, allowing removal of script file deployments via GPOs, generating 11% improvement in GPO processing time on workstations.  
 > |   |   |
@@ -484,37 +484,37 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 -------------------------------------------------------------------------------------------------------------------
 
 ## Sr. Principal Systems Engineer (Lockheed Martin) | Sept. 2022 – Feb. 2024
-#### 1. 
+#### 1. Led an eight-person tiger team that transformed a five-generation, 110-PC fleet into three standardized tiers—salvaging parts, placing a targeted $8 K gap order, and executing a 72-hour rebuild—saving ≈$91 K in hardware costs while cutting audit findings 9 % and raising productivity 17 %.  
 > |   |   |
 > |---|---|
-> | S |  |
-> | T |  |
-> | A |  |
-> | R |  |
+> | S | A remote site’s 110-workstation fleet spanned five hardware generations, degrading performance and triggering repeat audit findings; a full $900-per-PC refresh was unfunded. |
+> | T | Deliver a standardized, compliant workstation lineup without incurring the $99 K replacement cost. |
+> | A | Led an eight-person tiger team: surveyed user workloads, grouped them into three performance tiers, decommissioned the two oldest generations, harvested RAM/SSDs, and placed a focused $8 K gap order to finish the builds; completed a 72-hour rebuild, re-image, and hardening sprint. |
+> | R | Produced three uniform workstation classes, avoided ≈$91 K in capex, cut audit findings 9 %, and boosted user productivity 17 %. |
 
-#### 2. Pioneered equipment refresh and equipment optimization process project to implement role-based equipment assignment model, resulting in over 30% performance improvement for developers.  
+#### 2. Drove a cross-team effort with security and facilities to purge a decade-old backlog of 2,500 legacy assets in 90 days—sanitizing to NIST SP 800-88 / NSA 9-12, boosting inventory accuracy from 85 % → 100 %, and freeing 27 % of secure-storage capacity.  
 > |   |   |
 > |---|---|
-> | S |  |
-> | T |  |
-> | A |  |
-> | R |  |
+> | S | A decade-old backlog of 2,500 untracked legacy assets filled secure closets, left inventory accuracy at 65 percent, and posed media-sanitation compliance risks.  |
+> | T | Within 90 days, eliminate the backlog, meet NIST SP 800-88 / NSA 9-12 sanitization standards, and restore 100 percent inventory accuracy while reclaiming storage capacity. |
+> | A | Partnered with security and facilities teams to catalogue every asset, applied approved wipe/destruction methods, updated inventory records, and reorganized storage layouts. |
+> | R | Purged all 2,500 assets on schedule, achieved full NIST/NSA compliance, raised inventory accuracy from 65 → 100 percent, and freed 27 percent of secure-storage space. |
 
-#### 3. Oversaw design and implementation of multi-domain DNS, leading to reducing DNS entry footprint by 27%, improving DNS resolution time by nearly 60%, resolving unknown domain issues, and expanding resolvable domains by 11%.  
+#### 3. Unified an inconsistent multi-domain AD DNS, aligning forwarders and purging duplicate zones—cutting worst-case lookups from 108 s to 13 s (-88%), trimming record footprint 27%, and confirming 100% resolution with an automated cross-domain test suite.  
 > |   |   |
 > |---|---|
-> | S |  |
-> | T |  |
-> | A |  |
-> | R |  |
+> | S | A fragmented multi-domain Active Directory DNS had inconsistent forwarders and duplicate zones; worst-case queries took 108 seconds and cross-domain lookups often failed. |
+> | T | Standardize DNS across all domains to guarantee 100 percent resolution and dramatically improve performance. |
+> | A | Aligned forwarder settings, purged duplicate zones, rebuilt zone files, and created an automated cross-domain test suite to validate every record after cut-over. |
+> | R | Cut worst-case lookup time from 108 s to 13 s (-88 %), reduced record footprint 27 %, and achieved 100 % successful resolution across all domains. |
 
-#### 4. Enhanced COTS/GOTS software deployment process through reengineering and automating image-dependent software installation process, resulting in eliminating 4 labor hours per-host process.  
+#### 4. Designed a Batch–PowerShell hybrid deployment toolkit with a version-controlled repo of 170+ packages: standardized folder layout, generated silent-install manifests, and enabled one-click builds that cascade dependencies and full system baselines—eliminating nintey-three percent of manual steps and cutting install time by half.    
 > |   |   |
 > |---|---|
-> | S |  |
-> | T |  |
-> | A |  |
-> | R |  |
+> | S | Developers relied on ad-hoc batch files and hand-typed commands to deploy 170 + applications, resulting in error-prone installs and long setup times. |
+> | T | Deliver a repeatable deployment solution that removes ≥50 % of manual steps and accelerates installs. |
+> | A | Designed a Batch–PowerShell polyglot toolkit: built a version-controlled repository, enforced a uniform folder schema, auto-generated silent-install manifests, and wrote one-click scripts that chain dependencies and full system baselines. |
+> | R | Eliminated 93% of manual effort and cut installation time by half across all 170 + packages. |
 
 #### 5. 
 > |   |   |
