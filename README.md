@@ -117,8 +117,13 @@ System administrator of $318 million network for 35th Fighter Wing supporting 44
 Communication Focal Point Technicians serve as the conduit for the Air Force Enterprise Service Desk (ESD) providing Tier I/II support to resolve communications systems and equipment issues at base level. Other responsibilities include maintaining physical accountability of AFIN equipment, planning & scheduling production, ordering, and management of materials, and track/order preventive maintenance.  
 
 | Soft Skills |
-| :----: |
-| Critical Thinking ● Organization ● Mentoring |
+| :---------: |
+| Critical Thinking ● Organization ● Cross-Team Collaboration ● Training & Enablement |
+
+
+| Hard Skills |
+| :---------: |
+| Data Visualization ● Technical Workflow Automation ● Documentation & Knowledge Management ● User Segmentation & Trend Analysis |
 
 | Technical Proficiencies |
 | :----: |
@@ -171,7 +176,11 @@ System administrator/manager responsible for ensuring confidentiality, integrity
 
 | Soft Skills |
 | :----: |
-| Inventory Management ● Project Management ● Critical Thinking ● Organization ● Mentoring |
+| Stakeholder Communication ● Inventory Management ● Project Management ● Critical Thinking ● Organization ● Mentoring ● Process Improvement |
+
+| Hard Skills |
+| :----: |
+| System Accreditation ● Security Compliance & Governance ● Policy Development & Risk Management ● Network Architecture & Infrastructure Modernization ● Audit Preparation & Remediation |
 
 | Technical Proficiencies |
 | :----: |
@@ -463,9 +472,9 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 > | S | 500 Windows workstations failed to meet NIST SP 800-53 data-at-rest controls (MP-5, SC-28) and required manual, time-intensive BitLocker setup. |
 > | T | Achieve full encryption compliance across the fleet within two weeks while minimizing technician touch time. |
 > | A | Wrote a PowerShell automation tool to enable BitLocker, escrow keys, verify TPM status, and log results; coordinated overnight deployment waves. |
-> | R | Reached 100 % compliance in 14 days, trimmed 30 minutes of manual effort per device (~250 labor-hours / ≈$30 K), and cleared all data-loss audit findings. |
+> | R | Reached 100 % compliance in 14 days, trimmed 30 minutes of manual effort per device (~250 labor-hours/$30K), and cleared all data-loss audit findings. |
 
-#### 4. Created script runner VBS tool to support script deployment within the environment, allowing removal of script file deployments via GPOs, generating 11% improvement in GPO processing time on workstations.  
+#### 4. Created a script runner VBS tool to support script deployment within the environment, allowing removal of script file deployments via GPOs, generating 11% improvement in GPO processing time on workstations.  
 > |   |   |
 > |---|---|
 > | S |  |
@@ -500,15 +509,15 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 > | A | Partnered with security and facilities teams to catalogue every asset, applied approved wipe/destruction methods, updated inventory records, and reorganized storage layouts. |
 > | R | Purged all 2,500 assets on schedule, achieved full NIST/NSA compliance, raised inventory accuracy from 65 → 100 percent, and freed 27 percent of secure-storage space. |
 
-#### 3. Unified an inconsistent multi-domain AD DNS, aligning forwarders and purging duplicate zones—cutting worst-case lookups from 108 s to 13 s (-88%), trimming record footprint 27%, and confirming 100% resolution with an automated cross-domain test suite.  
+#### 3. Unified an inconsistent multi-domain AD DNS, aligning forwarders and purging duplicate zones—cutting worst-case lookups from 108s to 13s (-88%), trimming record footprint 27%, and confirming 100% resolution with an automated cross-domain test suite.  
 > |   |   |
 > |---|---|
-> | S | A fragmented multi-domain Active Directory DNS had inconsistent forwarders and duplicate zones; worst-case queries took 108 seconds and cross-domain lookups often failed. |
+> | S | A fragmented multi-domain Active Directory DNS had inconsistent forwarders and duplicate zones; worst-case queries took 108 seconds, and cross-domain lookups often failed. |
 > | T | Standardize DNS across all domains to guarantee 100 percent resolution and dramatically improve performance. |
 > | A | Aligned forwarder settings, purged duplicate zones, rebuilt zone files, and created an automated cross-domain test suite to validate every record after cut-over. |
-> | R | Cut worst-case lookup time from 108 s to 13 s (-88 %), reduced record footprint 27 %, and achieved 100 % successful resolution across all domains. |
+> | R | Cut worst-case lookup time from 108 s to 13 s (-88 %), reduced record footprint 27%, and achieved 100 % successful resolution across all domains. |
 
-#### 4. Designed a Batch–PowerShell hybrid deployment toolkit with a version-controlled repo of 170+ packages: standardized folder layout, generated silent-install manifests, and enabled one-click builds that cascade dependencies and full system baselines—eliminating nintey-three percent of manual steps and cutting install time by half.    
+#### 4. Designed a Batch–PowerShell hybrid deployment toolkit with a version-controlled repo of 170+ packages: standardized folder layout, generated silent-install manifests, and enabled one-click builds that cascade dependencies and full system baselines—eliminating ninety-three percent of manual steps and cutting install time by half.    
 > |   |   |
 > |---|---|
 > | S | Developers relied on ad-hoc batch files and hand-typed commands to deploy 170 + applications, resulting in error-prone installs and long setup times. |
