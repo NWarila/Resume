@@ -3,11 +3,11 @@
 Highly versatile and experienced systems administrator offering expertise in IT operations, high-level strategic planning, and technical project management. Proven track-record of developing and implementing strategic IT solutions aligned to organizational objectives with a focus on continuous process improvements, technology optimization, and customer service. Deep technical expertise combined with an understanding of the importance of highly effective technical leadership, stakeholder management, and project management. Collaborative leader continually focused on building relationships to produce highly effective cross-functional teams, increasing productivity, and improving outcomes. Individual dedicated to self-reflection and personal improvement who consistently exceeds performance metrics.
 
 # Core Competencies  
-&nbsp; ● CI/CD Pipelines ● TS/SCI (C/I Polygraph)  ● RMF/JSIG Accreditation  
-&nbsp; ● Threat Modeling ● Stakeholder Management  ● Root Cause Analysis  
-&nbsp; ● IaC Transitions ● AWS Secure Architecture ● Technical Leadership  
-&nbsp; ●                 ● Network Infrastructure  ● Vulnerability Mgmt  
-&nbsp; ●                 ● Zero-Trust Architecture ● Automation Engineer  
+&nbsp; ● CI/CD Pipelines   ● Identity/Access Control ● RMF/JSIG Accreditation  
+&nbsp; ● IaC (Terraform)   ● Cross-Team Collaboration ● Root Cause Analysis  
+&nbsp; ● Containerization  ● AWS Secure Architecture ● Technical Leadership  
+&nbsp; ● System Hardening  ● Network Infrastructure  ● Security Automation 
+&nbsp; ● Config Management ● Zero-Trust Architecture ● Workflow Automation  
 
 # Professional Experience  
 ## Web Development & Administrator (Freelance) | 2008 - Dec. 2011
