@@ -631,6 +631,7 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 - Blue Coat Certified ProxySG Administrator (BCCPA)  
 - Blue Coat Certified ProxySG Professional (BCCPP)  
 - Certified Ethical Hacker (C|EH)  
+- Certified Network Defence Architect (CNDA)  
 - Certified Information Systems Security Professional (CISSP)  
 - CompTIA A+ (CE)  
 - CompTIA Advanced Security Practitioner+ (CASP+)  
