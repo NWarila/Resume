@@ -63,6 +63,8 @@ Highly versatile and experienced systems administrator offering expertise in IT 
 ## Network Control Center Technician (U.S. Air Force) | Dec. 2011 - Jun. 2013
 System administrator of $318 million network for 35th Fighter Wing supporting 44 units throughout Japan. Responsibilities include managing core network services including Active Directory, Group Policy, DNS, and DHCP. Other responsibilities included system lifecycle management, vulnerability identification/remediation, and tier 3 support.  
 
+My position as Network Control Center Technician (NCCT) was my first professional IT position. NCCTs are tier-3 system administrators broken up into multiple specialty groups, specifically Backup & Mobile Device team, Application Team, and Server Team. I started on the Application team, which was responsible for providing tier-3 applicaiton support and network patching. For the first year, the applications team had control of SCCM, in which we were able to utilize SCCM to maintain a patching compliance score of >= 90%. At approximately the 1 year mark, the NCC team performed a major network migration over 2 months to join the USAF AFIN network, in which we lost the ability to deploy application packages and all remediation work had to be done manually. I worked with the Applications team lead to develop robust SCCM reports, specific to our enclave cutting report generation time by 75% and over the course of 3 months tailored reports to eliminate all false positives. Developed additional reports using system metrics to perform trend and root cause analysis empowering the patching team a first ever weighted metric report allowing a structured approach to be utilized during patch cycles targetting systems with the greatest amount of deficiencies first helping drastically reduce MTTR. With the migration of the domain to the AFIN network we lost the ability to patch systems via SCCM packages so manual patching efforts increased significantly, resulting in a significant uptick of required labor hours assigned specifically to patching. Worked closely with the teams batch expert to expand and improve the locally available toolset. Self-taught myself batch & powershell scripting and became a major contributor to the local toolset development efforts. Utilizing the trend analysis reports i worked on previous, we were able to preemptively identify systems with SCCM or WMI issues prior to major patch deployments and perform repair tasks, resulting in a 11% increase in package deployment success. Lead the charge of incorporating a remote script execution toolset into the environment, combined with the robust newly created patching toolkit, was able to restore patch and configuration compliance to pre-migration levels of ~95% while cutting FTEs of deicated patching personel in half. 
+
 | Soft Skills |
 | :----: |
 | Critical Thinking ● Organization ● Mentoring |
@@ -115,6 +117,8 @@ System administrator of $318 million network for 35th Fighter Wing supporting 44
 
 ## Communications Focal Point Technician (U.S. Air Force) | Jun. 2013 - Aug. 2013
 Communication Focal Point Technicians serve as the conduit for the Air Force Enterprise Service Desk (ESD) providing Tier I/II support to resolve communications systems and equipment issues at base level. Other responsibilities include maintaining physical accountability of AFIN equipment, planning & scheduling production, ordering, and management of materials, and track/order preventive maintenance.  
+
+
 
 | Soft Skills |
 | :---------: |
