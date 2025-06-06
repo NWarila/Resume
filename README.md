@@ -20,7 +20,7 @@ Highly versatile and experienced systems administrator offering expertise in IT 
 | :----: |
 | vBulletin 3/4 ● MySQL ● cPanel ● Ubuntu Linux 9.X ● PHP 5.x ● HTML 4/5 ● CSS 2/3 |
 
-#### 1. Scaled 25 + vBulletin forums (5 M + annual visitors) to 99.97 % uptime by hardening LAMP stacks, tuning MySQL query caching and automating nightly backups with fail-over scripts.  
+#### 1. Scaled 25 + vBulletin forums (5 M+ + annual visitors) to 99.97 % uptime by hardening LAMP stacks, tuning MySQL query caching, and automating nightly backups with fail-over scripts.  
 > |   |   |
 > |---|---|
 > | S | 25 high-traffic vBulletin forums (≈5 million visits per year) were suffering periodic outages and performance bottlenecks. |
@@ -172,7 +172,7 @@ Communication Focal Point Technicians serve as the conduit for the Air Force Ent
 -------------------------------------------------------------------------------------------------------------------
 
 ## Information Systems Security Officer (U.S. Air Force) | Aug. 2013 – Jan. 2015
-System administrator/manager responsible for ensuring confidentiality, integrity, and availability of systems and networks and data through the utilization of risk analysis process. Responsibilities include obtaining/maintaining Information System accreditation (SSPS/ISSP), integrate disaster recovery/contingency planning, establish a security education, training, and awareness program, create configuration management (CM) process and conduct auditing & network monitoring.  
+System administrator/manager responsible for ensuring the confidentiality, integrity, and availability of systems, networks, and data through the utilization of the risk analysis process. Responsibilities include obtaining and maintaining Information System accreditation (SSPS/ISSP), integrating disaster recovery and contingency planning, establishing a security education, training, and awareness program, creating a configuration management (CM) process, and conducting auditing and network monitoring.  
 
 | Soft Skills |
 | :----: |
@@ -415,13 +415,13 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 > | A | Led design sessions, authored VPC/IAM hardening guides, and mentored engineers through VPN and transit-gateway builds; provided iterative architecture feedback to both DARPA security and AWS SA teams. |
 > | R | Delivered a fully functional hybrid test network on budget, and the resulting design was adopted as DARPA’s baseline NIST-compliant reference architecture for future cloud deployments. |
 
-#### 2. 
+#### 2. Created an automated Windows gold-image pipeline—PowerShell scripts that embedded STIG baselines, PKI trust chains, and current patches into hash-verified VHDs—shrinking secure server build time from 16 hours to 2 hours and guaranteeing identical deployments across all follow-on GovCloud projects.
 > |   |   |
 > |---|---|
-> | S |  |
-> | T |  |
-> | A |  |
-> | R |  |
+> | S | Engineers manually built Windows servers for each GovCloud test, taking days and risking baseline drift. |
+> | T | Deliver a repeatable, security-hardened imaging process that accelerated provisioning while meeting NIST and PKI requirements. |
+> | A | Wrote PowerShell automation to layer STIG GPOs, PKI certificates, and cumulative patches into sealed VHDs, then instituted hash checks before every deploy. |
+> | R | Cut build time from 16 h to 2 h, ensured baseline integrity for every new instance, and set the standard for subsequent DARPA cloud images. |
 
 #### 3. Spearheaded the design, deployment, and accreditation of a unified information system—synthesizing requirements from 10+ diverse networks into a secure, scalable baseline that streamlined operations, met stringent security mandates, and laid a foundation for future expansion.  
 > |   |   |
