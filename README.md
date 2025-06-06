@@ -450,6 +450,9 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 -------------------------------------------------------------------------------------------------------------------
 
 ## Sr. Principal Systems Engineer (CSW Systems) | Oct. 2021 – Sept. 2022
+
+
+
 #### 1. 
 > |   |   |
 > |---|---|
@@ -493,6 +496,9 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 -------------------------------------------------------------------------------------------------------------------
 
 ## Sr. Principal Systems Engineer (Lockheed Martin) | Sept. 2022 – Feb. 2024
+
+
+
 #### 1. Led an eight-person tiger team that transformed a five-generation, 110-PC fleet into three standardized tiers—salvaging parts, placing a targeted $8 K gap order, and executing a 72-hour rebuild—saving ≈$91 K in hardware costs while cutting audit findings by 9% and raising productivity by 17%.  
 > |   |   |
 > |---|---|
@@ -537,47 +543,47 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 
 ## Information Systems Security Engineer (Two Six Technologies) | Feb. 2024 – Jan. 2025
 
-> At Two Six Technologies, I was hired as the corporate Information Systems Security Engineer (ISSE). My first assignment as ISSE was to Architect, Engineer, and deploy at least two new information systems from the ground up supporting the accredidation of multiple new Sensitive Compartmented Information Facilites (SCIFs). For this project I was responsible for all technical aspects of the project working closely with the assigned Information Systems Security Officer (ISSO) with the goal of achieving Approval To Operate (ATO) in less than 12 months. After identifying the parties that would be utilizing the new space, I worked closely with key stakeholders to create and get buyoff on a systems requirement plan and an accomplying systems design plan (SDP) for both networks. After a brief comments & review period I began working on executing the 1.5m Bill of Materials, coordinating with vendors, pushing purchase orders, creating a highly effective asset procurement and tracking plan enabling the purchase, tracking, and deployment of approximately 2,500 assets over a 6 month period. As equipment began shipping I worked closely with the Corporate Security Team to assist in the expansion of the Corporate security team hiring a Jr. Systems Administrator to assist in the systems deployment. Established a formal IT Training program and began the training of the Junior Administrator to prepare him for the ultimate goal of him taking over the network. The Jr Administrator was responsible for all systems deployment following the equipment rack diagrams to accurately Rack, Stack, and Wire every piece of equipment, identifying any gaps in the digrams resulting in the developed diagrams accurately documenting and inventorying every single piece of equipment, cable, media, adapter, and port in the entire facility. Developed and deployed ~150 GPOs across the two information systems achiving 0 Critical, High, or Medium finding across any windows infastructure. Deployed RSA SecurID to achieve multi-factor authentication for all internal services. Integrated a Version Control system (GITLAB) into the environment to perform configuration management & change tracking across all devices; built custom toolsets to integrated non-native configuration documents such as GPOs, Windows DNS/DHCP/Active Directory, etc int gitlab automating the body-of-evidence gathering required by monthly conmon. Build application deployment packages for 27 applications and integrated it with PDQ Deploy/Inventory and Active Directory groups to automate the (un)installation of all 3rd party software across all windows devices. Began migrating PDQ Deploy/Inventory functionality from PDQ Deploy to Ansible.
+At Two Six Technologies, I was hired as a Corporate Information Systems Security Engineer (ISSE). My first assignment as ISSE was to Architect, Engineer, and deploy at least two new information systems from the ground up, supporting the accreditation of multiple new Sensitive Compartmented Information Facilities (SCIFs). For this project, I was responsible for all technical aspects, working closely with the assigned Information Systems Security Officer (ISSO), to achieve Approval to Operate (ATO) within 12 months. After identifying the parties that would utilize the new space, I worked closely with key stakeholders to create and obtain buy-in for a systems requirements plan and an accompanying systems design plan (SDP) for both networks. After a brief comments and review period, I began working on executing the $1.5 million Bill of Materials, coordinating with vendors, issuing purchase orders, and creating a highly effective asset procurement and tracking plan, which enabled the purchase, tracking, and deployment of approximately 2,500 assets over six months. As equipment began shipping, I worked closely with the Corporate Security Team to assist in expanding the team, hiring a Junior Systems Administrator to support systems deployment. Established a formal IT Training program and began the training of the Junior Administrator to prepare him for the ultimate goal of his taking over the network. The Jr Administrator was responsible for all systems deployment following the equipment rack diagrams to accurately Rack, Stack, and Wire every piece of equipment, identifying any gaps in the digrams resulting in the developed diagrams accurately documenting and inventorying every single piece of equipment, cable, media, adapter, and port in the entire facility. Developed and deployed ~150 GPOs across the two information systems, achieving 0 Critical, High, or Medium findings across any Windows infrastructure. Deployed RSA SecurID to achieve multi-factor authentication for all internal services. Integrated a Version Control system (GITLAB) into the environment to perform configuration management & change tracking across all devices; built custom toolsets to integrate non-native configuration documents such as GPOs, Windows DNS/DHCP/Active Directory, etc, into GitLab, automating the body-of-evidence gathering required by monthly common. Build application deployment packages for 27 applications and integrate them with PDQ Deploy/Inventory and Active Directory groups to automate the (un)installation of all 3rd party software across all Windows devices. Began migrating PDQ Deploy/Inventory functionality from PDQ Deploy to Ansible.
 
-#### 1. 
+#### 1. Orchestrated the cradle-to-ATO build-out of two new SCIF information systems—authored SRP/SDP, won stakeholder sign-off, directed a $1.5 M / 2,500-asset procurement & deployment, stood up GitLab-based configuration governance, and mentored a junior administrator, delivering full accreditation 11 months ahead of schedule with zero critical or high findings.
 > |   |   |
 > |---|---|
-> | S |  |
-> | T |  |
-> | A |  |
-> | R |  |
+> | S | Two Six Technologies had to build two brand-new SCIF information systems from scratch and secure ATO within 12 months to enable upcoming mission work. |
+> | T | As the lone corporate ISSE, I had to architect, engineer, and deploy both networks end-to-end while overseeing a $1.5 M, 2,500-asset budget and winning stakeholder approval. |
+> | A | I authored SRP/SDP documents, drove procurement and detailed asset tracking, hired and mentored a junior admin, executed rack-stack-wire, enforced ~150 hardened GPOs with RSA SecurID MFA, and stood up GitLab-based configuration governance plus automated software deployment. |
+> | R | Delivered both SCIF networks 11 months ahead of the deadline, on budget, with zero critical/high findings and a fully trained successor ready to operate a DevSecOps-enabled environment. |
 
-#### 2. 
+#### 2.  Pioneered a GitLab-based evidence-as-code framework that ingested GPO, AD, DNS/DHCP, and device configs from 2,500 newly deployed assets, auto-generated RMF ConMon artifacts, and cut ATO documentation effort from weeks to 90 minutes, establishing Two Six’s first DevSecOps baseline.
 > |   |   |
 > |---|---|
-> | S |  |
-> | T |  |
-> | A |  |
-> | R |  |
+> | S | The manual, error-prone process for producing RMF continuous-monitoring evidence during the two-SCIF build-out routinely consumed weeks and jeopardized the 12-month ATO deadline. |
+> | T | As corporate ISSE, I had to invent a repeatable, audit-ready mechanism to generate body-of-evidence artifacts for roughly 2,500 new assets across both enclaves. |
+> | A | I architected a GitLab-centric evidence-as-code pipeline that automatically harvested configurations from GPO, AD, DNS/DHCP, and endpoint devices and rendered them into RMF-compliant artifacts. |
+> | R | The new framework slashed ATO documentation prep from weeks to ≈90 minutes and became Two Six’s foundational DevSecOps practice. |
 
-#### 3. 
+#### 3. Developed a zero-touch software-delivery pipeline by version-controlling 27 enterprise-app packages in GitLab, orchestrating AD group-based targeting via PDQ Deploy and later Ansible, and shrinking patch-to-production time on 220 Windows hosts from 72 hours to under 2 hours.
 > |   |   |
 > |---|---|
-> | S |  |
-> | T |  |
-> | A |  |
-> | R |  |
+> | S | Manual PDQ-based rollouts for 27 enterprise applications took up to 72 hours and risked configuration drift across 220 Windows hosts. |
+> | T | As corporate ISSE, I had to create a fully automated, audit-ready software-delivery mechanism aligned with SCIF accreditation requirements. |
+> | A | I version-controlled every app package in GitLab and wired AD group targeting to PDQ Deploy, then ported the workflow to Ansible for zero-touch execution. |
+> | R | Patch-to-production time dropped from 72 hours to < 2 hours with near-perfect first-pass success on all 220 endpoints. |
 
-#### 4. 
+#### 4. Engineered enterprise-wide RSA SecurID MFA for all AD interactive logons, privileged Windows services, and GitLab CI/CD; validated seamless operation on 220 endpoints and cleared pre-ATO IA audit with zero findings, positioning the network for compliant go-live.
 > |   |   |
 > |---|---|
-> | S |  |
-> | T |  |
-> | A |  |
-> | R |  |
+> | S | The two green-field SCIF networks demanded robust authentication to satisfy NIST IA-2 controls before ATO. |
+> | T | As corporate ISSE, I had to deliver an enterprise-grade MFA solution that covered every Windows and DevSecOps entry point. |
+> | A | I integrated RSA SecurID with AD interactive logons, privileged Windows services, and GitLab CI/CD, validating seamless operation on 220 test endpoints. |
+> | R | The deployment cleared the pre-ATO information-assurance audit with zero findings, positioning the networks for compliant go-live. |
 
-#### 5. 
+#### 5. Engineered a fault-tolerant enclave backbone—dual uplinks, stacked switching, N + 1 hypervisor cluster, mirrored AD/DNS/GitLab nodes, and redundant power paths—and wrote a Python environmental-monitoring script that initiates graceful, automated shutdown on power- or temperature-trigger events, sustaining 100 % service availability and preventing hardware-loss incidents.
 > |   |   |
 > |---|---|
-> | S |  |
-> | T |  |
-> | A |  |
-> | R |  |
+> | S | The newly built SCIF enclave had to remain operational during hardware failures or adverse environmental conditions to meet zero-downtime mission requirements. |
+> | T | As ISSE, I was charged with delivering a fully fault-tolerant backbone and an automated safeguard that would protect equipment if power or temperature thresholds were exceeded. |
+> | A | I implemented dual uplinks, stacked switching, an N+1 hypervisor cluster, mirrored AD/DNS/GitLab nodes, redundant power feeds, and wrote a Python daemon that continuously polled UPS and thermal sensors to trigger an orderly shutdown when limits were breached. |
+> | R | The solution sustained 100 % service availability through live-fire failover and environmental-fault drills, preventing any data loss or hardware damage during the first-year observation period. |
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -632,7 +638,6 @@ Lead technical advisor for the $318 million Air Force Cyber Security and Control
 - Blue Coat Certified ProxySG Professional (BCCPP)  
 - Certified Ethical Hacker (C|EH)  
 - Certified Network Defence Architect (CNDA)  
-- Certified Information Systems Security Professional (CISSP)  
 - CompTIA A+ (CE)  
 - CompTIA Advanced Security Practitioner+ (CASP+)  
 - CompTIA Linux+ (Powered by LPI)  
